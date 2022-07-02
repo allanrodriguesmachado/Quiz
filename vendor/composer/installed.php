@@ -1,11 +1,11 @@
 <?php return array(
     'root' => array(
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => NULL,
+        'reference' => '5abcf998e498926577fa46f242c1c25544bc22e2',
         'name' => 'laminas/laminas-mvc-skeleton',
         'dev' => true,
     ),
@@ -68,6 +68,15 @@
             'install_path' => __DIR__ . '/../laminas/laminas-config',
             'aliases' => array(),
             'reference' => 'e43d13dcfc273d4392812eb395ce636f73f34dfd',
+            'dev_requirement' => false,
+        ),
+        'laminas/laminas-db' => array(
+            'pretty_version' => '2.15.0',
+            'version' => '2.15.0.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../laminas/laminas-db',
+            'aliases' => array(),
+            'reference' => '1125ef2e55108bdfcc1f0030d3a0f9b895e09606',
             'dev_requirement' => false,
         ),
         'laminas/laminas-development-mode' => array(
@@ -161,12 +170,12 @@
             'dev_requirement' => false,
         ),
         'laminas/laminas-mvc-skeleton' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => NULL,
+            'reference' => '5abcf998e498926577fa46f242c1c25544bc22e2',
             'dev_requirement' => false,
         ),
         'laminas/laminas-permissions-acl' => array(

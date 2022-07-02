@@ -38,6 +38,7 @@
       <excludeFolder url="file://$MODULE_DIR$/vendor/laminas/laminas-development-mode" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/laminas/laminas-session" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/laminas/laminas-db" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

@@ -30,6 +30,7 @@ return array(
     'Laminas\\EventManager\\' => array($vendorDir . '/laminas/laminas-eventmanager/src'),
     'Laminas\\Escaper\\' => array($vendorDir . '/laminas/laminas-escaper/src'),
     'Laminas\\DevelopmentMode\\' => array($vendorDir . '/laminas/laminas-development-mode/src'),
+    'Laminas\\Db\\' => array($vendorDir . '/laminas/laminas-db/src'),
     'Laminas\\Config\\' => array($vendorDir . '/laminas/laminas-config/src'),
     'Laminas\\ComponentInstaller\\' => array($vendorDir . '/laminas/laminas-component-installer/src'),
     'Laminas\\Captcha\\' => array($vendorDir . '/laminas/laminas-captcha/src'),

@@ -39,6 +39,7 @@ class ComposerStaticInit336067a936d91322f880e9dd28f94e40
             'Laminas\\EventManager\\' => 21,
             'Laminas\\Escaper\\' => 16,
             'Laminas\\DevelopmentMode\\' => 24,
+            'Laminas\\Db\\' => 11,
             'Laminas\\Config\\' => 15,
             'Laminas\\ComponentInstaller\\' => 27,
             'Laminas\\Captcha\\' => 16,
@@ -155,6 +156,10 @@ class ComposerStaticInit336067a936d91322f880e9dd28f94e40
         'Laminas\\DevelopmentMode\\' => 
         array (
             0 => __DIR__ . '/..' . '/laminas/laminas-development-mode/src',
+        ),
+        'Laminas\\Db\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/laminas/laminas-db/src',
         ),
         'Laminas\\Config\\' => 
         array (
